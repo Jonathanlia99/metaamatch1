@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.peduli.pancah.my.id	TRUE	/	FALSE	1999999999	__cf_bm	AkAATa37VrftovG7vFy.pQHfGw9wGwbbUhafQgb9vCw-1708075739-1.0-ARpbj7Qy82F4cmv5KdFm5L8sK/Mh7uFBOPaTvP/Z3GJjQGA9/KgQPuzvT7L3HV4mzW0lOVKfQNT0ZPdxt6q2QaQ=
+peduli.pancah.my.id	TRUE	/	FALSE	1999999999	SameSite	None
+
